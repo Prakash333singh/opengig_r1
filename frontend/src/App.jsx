@@ -17,6 +17,7 @@ const App = () => {
       }
     };
     fetchTasks();
+
   }, []);
 
   // Add a new task
